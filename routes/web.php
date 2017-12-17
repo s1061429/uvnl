@@ -12,6 +12,7 @@
 */
 
 Route::get('/', function () {
+    echo 'test';
     return view('welcomePool');
 });
 
