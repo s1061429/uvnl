@@ -1,1 +1,1 @@
-FROM phusion/baseimage:latest
+FROM laradock/workspace
